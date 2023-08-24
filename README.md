@@ -17,7 +17,7 @@
 #7. Make sure that the CSS is linked external inside the head tag
 
 #8. Inside the head tag, if title tag does not exist, make one and name it 
-# Your Name + Web Design Exam
+#Your Name + Web Design Exam
 
 #9. Inside the body tag, create the <header> tag
 
@@ -37,7 +37,7 @@
 
 #17. Wrap each <li> with a <a> tag pointing to a id with the same name
 
-ex: <a href=#Contact><li>Contact</li></a>
+#ex: <a href=#Contact><li>Contact</li></a>
 
 #18. Below navigation menu, create 4 <sections> give them each an ID for each item in the instructions on question 16 ex: <section id="Contact"></section>
 
